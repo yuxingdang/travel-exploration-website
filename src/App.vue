@@ -10,6 +10,8 @@
     </div>
     <div>
       <Toolbar />
+      <Editor />
+      <Note-list />
     </div>
   </div>
 </template>

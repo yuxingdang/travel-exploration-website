@@ -9,8 +9,8 @@ Vue.use(Vuex);
 
 const defaultNote = {
   id: +new Date(),
-  title: '我的笔记',
-  content: '第一篇笔记内容',
+  title: 'Journey to...',
+  content: 'I would like to go to...',
   favorite: false
 }
 
