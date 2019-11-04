@@ -11,11 +11,7 @@
     <div>
       <Toolbar />
       <Editor />
-<<<<<<< HEAD
-      <Note-list />
-=======
       <NoteList />
->>>>>>> 3b283c1c58836ebde819c43ce89f7c203c49737f
     </div>
   </div>
 </template>
